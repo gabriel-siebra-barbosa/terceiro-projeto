@@ -1,5 +1,6 @@
 # 📋 Pesquisa de Atendimento ao Cliente
 ![Git Hub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 Programa em Python desenvolvido para coletar e exibir os resultados de uma pesquisa de satisfação sobre atendimento ao cliente, realizada com 50 entrevistados.
 
 
